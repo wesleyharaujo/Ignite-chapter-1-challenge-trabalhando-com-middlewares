@@ -1,1 +1,1 @@
-### Projeto desenvolvido para o desafio: Introdução ao SOLID do Ignite da Rocketseat.
+### Projeto desenvolvido para o desafio: Trabalhando com Middlewares do Ignite da Rocketseat.
